@@ -1,5 +1,7 @@
 #wepy
 
+[![Join the chat at https://gitter.im/jamesbeebop/wepy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jamesbeebop/wepy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 wepy displays the weather in a terminal, and is inspired by https://github.com/schachmat/wego
 
 I'm freshly started down the [10 year path](http://www.norvig.com/21-days.html) to being a
